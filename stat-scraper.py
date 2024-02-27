@@ -17,8 +17,9 @@ for team_url in team_urls:
     team_name = team_url.split('/')[-1].replace("-Stats", "").replace("-", " ")
     data = requests.get(team_url)
     players = pd.read_html(data.text, match="Standard Stats")[0]
-    remove_cols = ['Per 90 Minutes']
-    players = players.drop(columns=remove_cols)
+    players.columns = players.columns.get_level_values(1)
+    players = players[["Player", "Nation", "Pos", "Age", "MP", "Starts", "Min", "90s", "Gls", "Ast", "G+A", "G-PK", "PK", "PKatt", "CrdY", "CrdR"]]
+    players = players.fillna(0)
     players["Team"] = team_name
     all_players.append(players)
     time.sleep(2)
