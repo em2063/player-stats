@@ -1,0 +1,436 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Unnamed: 21_level_0,Team,Playing Time
+,Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Matches,,MP
+0,Jack Butland,eng ENG,GK,30-354,27.0,27,2430.0,27.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Rangers,
+1,James Tavernier,eng ENG,DF,32-119,27.0,27,2419.0,26.9,12.0,8.0,20.0,3.0,9.0,11.0,2.0,0.0,Matches,Rangers,
+2,Connor Goldson,eng ENG,DF,31-071,24.0,24,2155.0,23.9,0.0,1.0,1.0,0.0,0.0,0.0,6.0,0.0,Matches,Rangers,
+3,John Lundstram,eng ENG,MF,30-009,25.0,24,2090.0,23.2,0.0,3.0,3.0,0.0,0.0,0.0,3.0,0.0,Matches,Rangers,
+4,Cyriel Dessers,ng NGA,FW,29-081,24.0,18,1463.0,16.3,12.0,2.0,14.0,12.0,0.0,0.0,0.0,0.0,Matches,Rangers,
+5,Todd Cantwell,eng ENG,MF,26-000,22.0,17,1379.0,15.3,5.0,3.0,8.0,5.0,0.0,0.0,5.0,0.0,Matches,Rangers,
+6,John Souttar,sct SCO,DF,27-155,19.0,15,1491.0,16.6,1.0,1.0,2.0,1.0,0.0,0.0,2.0,0.0,Matches,Rangers,
+7,Abdallah Sima,sn SEN,"MF,FW",22-255,20.0,15,1379.0,15.3,10.0,2.0,12.0,10.0,0.0,0.0,0.0,0.0,Matches,Rangers,
+8,Rıdvan Yılmaz,tr TUR,DF,22-282,20.0,14,1345.0,14.9,1.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,Matches,Rangers,
+9,Borna Barišić,hr CRO,DF,31-109,14.0,12,1003.0,11.1,0.0,3.0,3.0,0.0,0.0,0.0,1.0,0.0,Matches,Rangers,
+10,Ross McCausland,nir NIR,"MF,FW",20-291,20.0,11,1126.0,12.5,1.0,2.0,3.0,1.0,0.0,0.0,0.0,0.0,Matches,Rangers,
+11,Leon Balogun,ng NGA,DF,35-244,11.0,11,901.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Matches,Rangers,
+12,Sam Lammers,nl NED,"MF,FW",26-303,17.0,10,844.0,9.4,2.0,2.0,4.0,2.0,0.0,0.0,1.0,0.0,Matches,Rangers,
+13,Nicolas Raskin,be BEL,MF,23-004,12.0,10,799.0,8.9,1.0,1.0,2.0,1.0,0.0,0.0,2.0,0.0,Matches,Rangers,
+14,Tom Lawrence,wls WAL,MF,30-045,14.0,8,743.0,8.3,0.0,3.0,3.0,0.0,0.0,0.0,1.0,0.0,Matches,Rangers,
+15,Rabbi Matondo,wls WAL,"MF,FW",23-171,15.0,7,522.0,5.8,3.0,3.0,6.0,3.0,0.0,0.0,1.0,0.0,Matches,Rangers,
+16,José Cifuentes,ec ECU,MF,24-352,9.0,6,559.0,6.2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,Matches,Rangers,
+17,Dujon Sterling,eng ENG,"MF,DF",24-126,14.0,5,635.0,7.1,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,Matches,Rangers,
+18,Danilo,br BRA,FW,24-326,12.0,5,533.0,5.9,4.0,1.0,5.0,4.0,0.0,0.0,0.0,0.0,Matches,Rangers,
+19,Scott Wright,sct SCO,MF,26-203,15.0,5,494.0,5.5,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,Matches,Rangers,
+20,Ryan Jack,sct SCO,MF,32-000,11.0,5,448.0,5.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,Matches,Rangers,
+21,Kemar Roofe,jm JAM,"FW,MF",31-052,10.0,5,357.0,4.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,Matches,Rangers,
+22,Ben Davies,eng ENG,DF,28-200,4.0,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Rangers,
+23,Kieran Dowell,eng ENG,MF,26-140,7.0,4,344.0,3.8,2.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,Matches,Rangers,
+24,Fábio Silva,pt POR,FW,21-223,7.0,3,323.0,3.6,2.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,Matches,Rangers,
+25,Oscar Cortés,co COL,MF,20-086,5.0,2,248.0,2.8,1.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,Matches,Rangers,
+26,Mohammed Diomande,ci CIV,MF,22-120,4.0,2,178.0,2.0,2.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,Matches,Rangers,
+27,Zakariya Lovelace,eng ENG,FW,18-035,2.0,1,47.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Rangers,
+28,Bailey Rice,sct SCO,DF,17-146,2.0,0,14.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Rangers,
+29,Leon King,sct SCO,DF,20-044,3.0,0,12.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Rangers,
+30,Adam Devine,sct SCO,DF,20-339,0.0,0,,,,,,,,,,,Matches,Rangers,
+31,Ianis Hagi,ro ROU,"FW,MF",25-128,0.0,0,,,,,,,,,,,Matches,Rangers,
+32,Robby McCrorie,sct SCO,GK,25-346,0.0,0,,,,,,,,,,,Matches,Rangers,
+33,Cole McKinnon,sct SCO,MF,21-029,0.0,0,,,,,,,,,,,Matches,Rangers,
+34,Johnly Yfeko,eng ENG,DF,20-249,0.0,0,,,,,,,,,,,Matches,Rangers,
+35,Squad Total,,,28.0,27.0,297,2430.0,27.0,61.0,38.0,99.0,52.0,9.0,11.0,33.0,4.0,,Rangers,
+36,Opponent Total,,,27.1,27.0,297,2430.0,27.0,13.0,7.0,20.0,12.0,1.0,1.0,65.0,2.0,,Rangers,
+0,Callum McGregor,sct SCO,MF,30-258,,27,2392.0,26.6,1.0,5.0,6.0,1.0,0.0,0.0,4.0,0.0,Matches,Celtic,27.0
+1,Matt O'Riley,dk DEN,MF,23-098,,26,2286.0,25.4,10.0,7.0,17.0,10.0,0.0,0.0,2.0,0.0,Matches,Celtic,26.0
+2,Joe Hart,eng ENG,GK,36-314,,26,2277.0,25.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Matches,Celtic,26.0
+3,Liam Scales,ie IRL,DF,25-203,,25,2250.0,25.0,1.0,2.0,3.0,1.0,0.0,0.0,5.0,0.0,Matches,Celtic,25.0
+4,Greg Taylor,sct SCO,DF,26-114,,24,2030.0,22.6,2.0,2.0,4.0,2.0,0.0,0.0,4.0,0.0,Matches,Celtic,24.0
+5,Kyogo Furuhashi,jp JPN,FW,29-038,,23,1827.0,20.3,9.0,3.0,12.0,9.0,0.0,0.0,2.0,0.0,Matches,Celtic,27.0
+6,Alistair Johnston,ca CAN,DF,25-142,,22,1731.0,19.2,1.0,1.0,2.0,1.0,0.0,0.0,3.0,0.0,Matches,Celtic,22.0
+7,Daizen Maeda,jp JPN,FW,26-130,,18,1433.0,15.9,3.0,2.0,5.0,3.0,0.0,0.0,1.0,0.0,Matches,Celtic,20.0
+8,Luis Enrique Palma,hn HON,FW,24-041,,17,1303.0,14.5,6.0,9.0,15.0,4.0,2.0,4.0,2.0,0.0,Matches,Celtic,22.0
+9,Cameron Carter-Vickers,us USA,DF,26-058,,14,1119.0,12.4,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,Celtic,15.0
+10,Paulo Bernardo,pt POR,MF,22-034,,9,715.0,7.9,2.0,2.0,4.0,2.0,0.0,0.0,2.0,0.0,Matches,Celtic,14.0
+11,David Turnbull,sct SCO,MF,24-232,,9,674.0,7.5,7.0,0.0,7.0,4.0,3.0,4.0,2.0,0.0,Matches,Celtic,16.0
+12,Yang Hyunjun,kr KOR,FW,21-278,,7,752.0,8.4,1.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,Matches,Celtic,19.0
+13,Anthony Ralston,sct SCO,DF,25-103,,5,765.0,8.5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,Celtic,12.0
+14,Maik Nawrocki,pl POL,DF,23-020,,5,462.0,5.1,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,Matches,Celtic,8.0
+15,Liel Abada,il ISR,FW,22-147,,5,438.0,4.9,1.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,Matches,Celtic,9.0
+16,Gustaf Lagerbielke,se SWE,DF,23-323,,4,404.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Celtic,6.0
+17,Reo Hatate,jp JPN,MF,26-098,,4,389.0,4.3,2.0,2.0,4.0,1.0,1.0,2.0,0.0,0.0,Matches,Celtic,8.0
+18,Oh Hyeongyu,kr KOR,FW,22-321,,3,625.0,6.9,5.0,0.0,5.0,5.0,0.0,0.0,1.0,0.0,Matches,Celtic,20.0
+19,Alexandro Bernabei,ar ARG,DF,23-156,,3,343.0,3.8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Celtic,8.0
+20,Tomoki Iwata,jp JPN,MF,26-326,,3,322.0,3.6,1.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,Matches,Celtic,8.0
+21,Nathaniel Phillips,eng ENG,DF,26-343,,3,317.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Celtic,6.0
+22,Michael Johnston,ie IRL,FW,24-314,,3,306.0,3.4,2.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,Matches,Celtic,9.0
+23,Stephen Welsh,sct SCO,DF,24-039,,3,284.0,3.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Celtic,6.0
+24,James Forrest,sct SCO,FW,32-235,,2,336.0,3.7,2.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,Matches,Celtic,15.0
+25,Adam Idah,ie IRL,FW,23-016,,2,233.0,2.6,4.0,1.0,5.0,2.0,2.0,2.0,0.0,0.0,Matches,Celtic,4.0
+26,Odin Thiago Holm,no NOR,MF,21-040,,2,209.0,2.3,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,Celtic,8.0
+27,Nicolas-Gerrit Kühn,de GER,FW,24-057,,2,206.0,2.3,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,Matches,Celtic,5.0
+28,Scott Bain,sct SCO,GK,32-097,,1,151.0,1.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Celtic,2.0
+29,Sead Haksabanović,me MNE,"FW,MF",24-299,,0,31.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Celtic,1.0
+30,Marco Tilio,au AUS,MF,22-188,,0,29.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Celtic,2.0
+31,Carl Starfelt,se SWE,DF,28-271,,0,24.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Celtic,1.0
+32,Rocco Vata,ie IRL,MF,18-315,,0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Celtic,1.0
+33,Kwon Hyeokkyu,kr KOR,MF,22-351,,0,,,,,,,,,,,Matches,Celtic,0.0
+34,Daniel Kelly,sct SCO,MF,18-147,,0,,,,,,,,,,,Matches,Celtic,0.0
+35,Yuki Kobayashi,jp JPN,DF,23-224,,0,,,,,,,,,,,Matches,Celtic,0.0
+36,Benjamin Siegrist,ch SUI,GK,32-027,,0,,,,,,,,,,,Matches,Celtic,0.0
+37,Squad Total,,,26.7,,297,2430.0,27.0,61.0,43.0,104.0,53.0,8.0,12.0,35.0,1.0,,Celtic,27.0
+38,Opponent Total,,,26.9,,297,2430.0,27.0,18.0,14.0,32.0,18.0,0.0,0.0,53.0,3.0,,Celtic,27.0
+0,Zander Clark,sct SCO,GK,31-246,27.0,27,2430.0,27.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Heart of Midlothian,
+1,Frankie Kent,eng ENG,DF,28-098,27.0,27,2430.0,27.0,0.0,3.0,3.0,0.0,0.0,0.0,3.0,0.0,Matches,Heart of Midlothian,
+2,Lawrence Shankland,sct SCO,FW,28-201,27.0,27,2417.0,26.9,18.0,1.0,19.0,17.0,1.0,4.0,6.0,0.0,Matches,Heart of Midlothian,
+3,Kye Rowles,au AUS,DF,25-248,22.0,22,1908.0,21.2,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,Matches,Heart of Midlothian,
+4,Stephen Kingsley,sct SCO,DF,29-219,23.0,21,1859.0,20.7,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,Matches,Heart of Midlothian,
+5,Alex Cochrane,eng ENG,"MF,DF",23-312,20.0,20,1723.0,19.1,0.0,3.0,3.0,0.0,0.0,0.0,4.0,0.0,Matches,Heart of Midlothian,
+6,Calem Nieuwenhof,au AUS,MF,23-010,23.0,19,1686.0,18.7,1.0,1.0,2.0,1.0,0.0,0.0,4.0,0.0,Matches,Heart of Midlothian,
+7,Beni Baningime,cd COD,MF,25-171,20.0,17,1401.0,15.6,0.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,Matches,Heart of Midlothian,
+8,Alan Forrest,sct SCO,"MF,FW",27-171,24.0,13,1358.0,15.1,3.0,5.0,8.0,3.0,0.0,0.0,3.0,0.0,Matches,Heart of Midlothian,
+9,Kenneth Vargas,cr CRC,"MF,FW",21-316,24.0,12,1233.0,13.7,4.0,1.0,5.0,4.0,0.0,0.0,5.0,0.0,Matches,Heart of Midlothian,
+10,Nathaniel Atkinson,au AUS,"MF,DF",24-259,13.0,11,932.0,10.4,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,Matches,Heart of Midlothian,
+11,Alexander lowry,sct SCO,MF,20-249,12.0,10,725.0,8.1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,Matches,Heart of Midlothian,
+12,Jorge Grant,eng ENG,MF,29-154,19.0,9,873.0,9.7,1.0,3.0,4.0,0.0,1.0,1.0,0.0,0.0,Matches,Heart of Midlothian,
+13,Yutaro Oda,jp JPN,"MF,FW",22-199,18.0,9,781.0,8.7,3.0,0.0,3.0,3.0,0.0,0.0,2.0,0.0,Matches,Heart of Midlothian,
+14,Toby Sibbick,eng ENG,"DF,MF",24-280,16.0,8,931.0,10.3,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,Matches,Heart of Midlothian,
+15,Cameron Devlin,au AUS,MF,25-265,14.0,8,738.0,8.2,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,Matches,Heart of Midlothian,
+16,Liam Boyce,nir NIR,"FW,MF",32-325,13.0,7,631.0,7.0,1.0,3.0,4.0,1.0,0.0,0.0,2.0,0.0,Matches,Heart of Midlothian,
+17,Aidan Denholm,sct SCO,MF,20-110,11.0,7,442.0,4.9,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,Matches,Heart of Midlothian,
+18,Peter Haring,at AUT,MF,30-270,6.0,5,420.0,4.7,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,Matches,Heart of Midlothian,
+19,Dexter Lembikisa,jm JAM,"DF,MF",20-115,5.0,5,405.0,4.5,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,Matches,Heart of Midlothian,
+20,Craig Halkett,sct SCO,DF,28-274,9.0,4,370.0,4.1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Heart of Midlothian,
+21,Kyosuke Tagawa,jp JPN,FW,25-016,9.0,3,356.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Heart of Midlothian,
+22,Odeluga Offiah,eng ENG,"MF,DF",21-124,5.0,3,211.0,2.3,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,Matches,Heart of Midlothian,
+23,Scott Fraser,sct SCO,MF,28-334,4.0,2,181.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Heart of Midlothian,
+24,Barrie McKay,sct SCO,FW,29-059,4.0,1,141.0,1.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Heart of Midlothian,
+25,Macauley Tait,sct SCO,MF,18-184,7.0,0,117.0,1.3,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,Matches,Heart of Midlothian,
+26,Andy Halliday,sct SCO,"DF,MF",32-139,3.0,0,31.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Heart of Midlothian,
+27,Craig Gordon,sct SCO,GK,41-058,0.0,0,,,,,,,,,,,Matches,Heart of Midlothian,
+28,Makenzie Kirk,nir NIR,FW,20-021,0.0,0,,,,,,,,,,,Matches,Heart of Midlothian,
+29,Michael McGovern,nir NIR,GK,39-230,0.0,0,,,,,,,,,,,Matches,Heart of Midlothian,
+30,Finlay Pollock,sct SCO,MF,19-057,0.0,0,,,,,,,,,,,Matches,Heart of Midlothian,
+31,James Wilson,sct SCO,FW,16-358,0.0,0,,,,,,,,,,,Matches,Heart of Midlothian,
+32,Squad Total,,,26.5,27.0,297,2430.0,27.0,33.0,24.0,57.0,31.0,2.0,5.0,58.0,0.0,,Heart of Midlothian,
+33,Opponent Total,,,27.1,27.0,297,2430.0,27.0,26.0,17.0,43.0,23.0,3.0,6.0,65.0,1.0,,Heart of Midlothian,
+0,Stuart Findlay,sct SCO,DF,28-166,,27,2430.0,27.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,Matches,Kilmarnock,27.0
+1,Lewis Mayo,sct SCO,DF,23-345,,27,2428.0,27.0,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,Matches,Kilmarnock,27.0
+2,Daniel Armstrong,sct SCO,MF,26-139,,27,2256.0,25.1,4.0,9.0,13.0,2.0,2.0,3.0,7.0,0.0,Matches,Kilmarnock,27.0
+3,Will Dennis,eng ENG,GK,23-232,,26,2293.0,25.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Kilmarnock,26.0
+4,Marley Watkins,wls WAL,FW,33-133,,23,1871.0,20.8,5.0,1.0,6.0,5.0,0.0,0.0,1.0,0.0,Matches,Kilmarnock,25.0
+5,Kyle Vassell,nir NIR,FW,31-020,,22,1842.0,20.5,5.0,1.0,6.0,5.0,0.0,0.0,2.0,0.0,Matches,Kilmarnock,25.0
+6,Matty Kennedy,nir NIR,"MF,FW",29-118,,20,1874.0,20.8,3.0,3.0,6.0,3.0,0.0,0.0,2.0,0.0,Matches,Kilmarnock,25.0
+7,David Watson,sct SCO,MF,19-015,,20,1858.0,20.6,4.0,2.0,6.0,4.0,0.0,0.0,7.0,0.0,Matches,Kilmarnock,25.0
+8,Brad Lyons,nir NIR,MF,26-277,,20,1618.0,18.0,2.0,0.0,2.0,2.0,0.0,0.0,7.0,0.0,Matches,Kilmarnock,20.0
+9,Joe Wright,wls WAL,DF,29-001,,17,1494.0,16.6,2.0,0.0,2.0,2.0,0.0,0.0,6.0,0.0,Matches,Kilmarnock,19.0
+10,Robbie Deas,sct SCO,DF,24-000,,17,1432.0,15.9,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,Matches,Kilmarnock,20.0
+11,Corrie Ndaba,ie IRL,"MF,DF",24-064,,15,1330.0,14.8,1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,Matches,Kilmarnock,17.0
+12,Liam Polworth,sct SCO,MF,29-138,,11,1105.0,12.3,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,Kilmarnock,18.0
+13,Liam Donnelly,nir NIR,MF,27-357,,9,755.0,8.4,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,Matches,Kilmarnock,16.0
+14,Kyle Magennis,sct SCO,MF,25-185,,7,560.0,6.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Kilmarnock,8.0
+15,Rory McKenzie,sct SCO,MF,30-143,,3,503.0,5.6,1.0,0.0,1.0,1.0,0.0,0.0,4.0,0.0,Matches,Kilmarnock,20.0
+16,Thomas Davies,wls WAL,"MF,DF",20-108,,3,250.0,2.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Kilmarnock,6.0
+17,Innes Cameron,sct SCO,FW,23-189,,1,148.0,1.6,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,Matches,Kilmarnock,6.0
+18,Kieran O'Hara,ie IRL,GK,27-311,,1,137.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Kilmarnock,2.0
+19,Greg Stewart,sct SCO,MF,33-347,,1,116.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Kilmarnock,4.0
+20,Andrew Dallas,sct SCO,"FW,MF",24-220,,0,229.0,2.5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,Kilmarnock,14.0
+21,Gary Mackay-Steven,sct SCO,MF,33-180,,0,53.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Kilmarnock,5.0
+22,Fraser Murray,sct SCO,MF,24-296,,0,53.0,0.6,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,Kilmarnock,12.0
+23,Kevin van Veen,nl NED,FW,32-271,,0,48.0,0.5,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,Matches,Kilmarnock,4.0
+24,James Balagizi,eng ENG,MF,20-160,,0,27.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Kilmarnock,2.0
+25,Aaron Brown,sct SCO,FW,18-220,,0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Kilmarnock,1.0
+26,Mark Birighitti,au AUS,GK,32-316,,0,,,,,,,,,,,Matches,Kilmarnock,0.0
+27,Aiden Glavin,sct SCO,GK,18-289,,0,,,,,,,,,,,Matches,Kilmarnock,0.0
+28,Jack Sanders,eng ENG,DF,24-346,,0,,,,,,,,,,,Matches,Kilmarnock,0.0
+29,Steven Warnock,sct SCO,MF,20-260,,0,,,,,,,,,,,Matches,Kilmarnock,0.0
+30,Squad Total,,,26.7,,297,2430.0,27.0,29.0,20.0,49.0,27.0,2.0,3.0,56.0,1.0,,Kilmarnock,27.0
+31,Opponent Total,,,27.5,,297,2430.0,27.0,24.0,19.0,43.0,23.0,1.0,3.0,52.0,2.0,,Kilmarnock,27.0
+0,Alex Gogić,cy CYP,DF,29-320,27.0,27,2430.0,27.0,1.0,1.0,2.0,1.0,0.0,0.0,4.0,0.0,Matches,St Mirren,
+1,Zachary Hemming,eng ENG,GK,23-357,27.0,27,2430.0,27.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,Matches,St Mirren,
+2,Marcus Fraser,sct SCO,"DF,MF",29-249,27.0,27,2403.0,26.7,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,Matches,St Mirren,
+3,Scott Tanser,eng ENG,MF,29-127,27.0,27,2385.0,26.5,1.0,4.0,5.0,1.0,0.0,0.0,3.0,0.0,Matches,St Mirren,
+4,Greg Kiltie,sct SCO,"FW,MF",27-040,27.0,27,2176.0,24.2,4.0,3.0,7.0,1.0,3.0,3.0,1.0,0.0,Matches,St Mirren,
+5,Richard Taylor,eng ENG,DF,23-148,19.0,19,1491.0,16.6,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,Matches,St Mirren,
+6,Mark O'Hara,sct SCO,MF,28-077,18.0,18,1560.0,17.3,3.0,1.0,4.0,1.0,2.0,4.0,3.0,0.0,Matches,St Mirren,
+7,Caolan Boyd-Munce,nir NIR,MF,24-032,24.0,16,1365.0,15.2,0.0,3.0,3.0,0.0,0.0,0.0,3.0,0.0,Matches,St Mirren,
+8,Conor McMenamin,nir NIR,"FW,MF",28-187,18.0,15,1195.0,13.3,1.0,0.0,1.0,1.0,0.0,0.0,4.0,0.0,Matches,St Mirren,
+9,Keanu Baccus,au AUS,MF,25-265,22.0,14,1419.0,15.8,1.0,0.0,1.0,1.0,0.0,0.0,9.0,0.0,Matches,St Mirren,
+10,Mikael Mandron,fr FRA,FW,29-139,24.0,14,1259.0,14.0,6.0,1.0,7.0,6.0,0.0,1.0,2.0,0.0,Matches,St Mirren,
+11,Ryan Strain,au AUS,MF,26-331,11.0,11,908.0,10.1,1.0,1.0,2.0,1.0,0.0,0.0,3.0,1.0,Matches,St Mirren,
+12,Toyosi Olusanya,eng ENG,FW,26-026,24.0,8,856.0,9.5,2.0,1.0,3.0,2.0,0.0,0.0,4.0,1.0,Matches,St Mirren,
+13,Jonah Ayunga,eng ENG,FW,26-279,12.0,8,639.0,7.1,2.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,Matches,St Mirren,
+14,James Bolton,eng ENG,DF,29-198,16.0,7,713.0,7.9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Matches,St Mirren,
+15,Elvis Bwomono,ug UGA,MF,25-090,6.0,5,459.0,5.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,St Mirren,
+16,Kwon Hyeokkyu,kr KOR,MF,22-351,5.0,5,350.0,3.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,St Mirren,
+17,Charles Dunne,ie IRL,DF,31-014,16.0,4,632.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,St Mirren,
+18,Lewis Jamieson,sct SCO,"MF,FW",21-316,12.0,4,474.0,5.3,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,Matches,St Mirren,
+19,Ryan Flynn,sct SCO,MF,35-176,9.0,4,314.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,St Mirren,
+20,Thierry Small,eng ENG,MF,19-210,5.0,3,263.0,2.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,St Mirren,
+21,James Scott,sct SCO,FW,23-181,4.0,3,194.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,St Mirren,
+22,Alex Greive,nz NZL,FW,24-290,18.0,2,447.0,5.0,2.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,Matches,St Mirren,
+23,Stav Nachmani,il ISR,FW,21-262,9.0,2,235.0,2.6,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,Matches,St Mirren,
+24,Jaden Brown,eng ENG,"DF,MF",25-034,2.0,0,17.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,St Mirren,
+25,Shay Kelly,,GK,,0.0,0,,,,,,,,,,,Matches,St Mirren,
+26,Luke Kenny,sct SCO,DF,20-152,0.0,0,,,,,,,,,,,Matches,St Mirren,
+27,Gallagher Lennon,sct SCO,DF,18-057,0.0,0,,,,,,,,,,,Matches,St Mirren,
+28,Evan Mooney,,MF,,0.0,0,,,,,,,,,,,Matches,St Mirren,
+29,Callum Penman,sct SCO,DF,16-298,0.0,0,,,,,,,,,,,Matches,St Mirren,
+30,Ethan Sutherland,,FW,,0.0,0,,,,,,,,,,,Matches,St Mirren,
+31,Peter Urminský,sk SVK,GK,24-279,0.0,0,,,,,,,,,,,Matches,St Mirren,
+32,Squad Total,,,27.1,27.0,297,2430.0,27.0,26.0,15.0,41.0,21.0,5.0,8.0,48.0,3.0,,St Mirren,
+33,Opponent Total,,,27.2,27.0,297,2430.0,27.0,30.0,19.0,49.0,27.0,3.0,6.0,38.0,0.0,,St Mirren,
+0,Joe Shaughnessy,ie IRL,DF,31-236,26.0,26,2340.0,26.0,4.0,1.0,5.0,4.0,0.0,0.0,2.0,0.0,Matches,Dundee,
+1,Luke McCowan,sct SCO,MF,26-080,25.0,25,2180.0,24.2,6.0,4.0,10.0,5.0,1.0,1.0,6.0,1.0,Matches,Dundee,
+2,Trevor Carson,nir NIR,GK,35-359,24.0,24,2160.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Dundee,
+3,Amadou Bakayoko,sl SLE,FW,28-057,26.0,24,2035.0,22.6,5.0,3.0,8.0,5.0,0.0,0.0,5.0,0.0,Matches,Dundee,
+4,Owen Beck,wls WAL,"DF,MF",21-202,23.0,23,2051.0,22.8,2.0,4.0,6.0,2.0,0.0,0.0,6.0,0.0,Matches,Dundee,
+5,Jordan McGhee,sct SCO,"DF,MF",27-218,23.0,23,1985.0,22.1,3.0,0.0,3.0,3.0,0.0,0.0,4.0,0.0,Matches,Dundee,
+6,Malachi Boateng,eng ENG,MF,21-237,24.0,20,1843.0,20.5,0.0,1.0,1.0,0.0,0.0,0.0,5.0,0.0,Matches,Dundee,
+7,Lyall Cameron,sct SCO,MF,21-140,21.0,18,1439.0,16.0,4.0,0.0,4.0,4.0,0.0,0.0,1.0,0.0,Matches,Dundee,
+8,Ricki Lamie,sct SCO,DF,30-246,14.0,11,994.0,11.0,1.0,1.0,2.0,1.0,0.0,0.0,2.0,0.0,Matches,Dundee,
+9,Zach Robinson,eng ENG,"FW,MF",21-261,20.0,10,902.0,10.0,3.0,0.0,3.0,3.0,0.0,1.0,0.0,0.0,Matches,Dundee,
+10,Aaron Donnelly,nir NIR,"DF,MF",20-264,11.0,10,859.0,9.5,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,Matches,Dundee,
+11,Juan Antonio Portales,mx MEX,DF,27-287,10.0,10,750.0,8.3,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,Matches,Dundee,
+12,Zak Rudden,sct SCO,FW,24-021,14.0,9,820.0,9.1,2.0,1.0,3.0,1.0,1.0,1.0,3.0,0.0,Matches,Dundee,
+13,Scott Tiffoney,sct SCO,"FW,MF",25-185,18.0,9,775.0,8.6,3.0,1.0,4.0,3.0,0.0,0.0,1.0,0.0,Matches,Dundee,
+14,Mohamad Sylla,ml MLI,MF,30-088,13.0,9,759.0,8.4,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,Matches,Dundee,
+15,Lee Ashcroft,sct SCO,DF,30-182,8.0,7,607.0,6.7,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,Matches,Dundee,
+16,Owen Dodgson,eng ENG,DF,20-345,6.0,5,468.0,5.2,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,Matches,Dundee,
+17,Finlay Robertson,sct SCO,MF,21-107,8.0,5,438.0,4.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Dundee,
+18,Cammy Kerr,sct SCO,"DF,MF",28-170,10.0,4,502.0,5.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Dundee,
+19,Dara Costelloe,ie IRL,"FW,DF",21-078,6.0,4,315.0,3.5,0.0,2.0,2.0,0.0,0.0,0.0,3.0,0.0,Matches,Dundee,
+20,Josh Mulligan,sct SCO,MF,21-107,12.0,3,527.0,5.9,1.0,0.0,1.0,1.0,0.0,0.0,2.0,1.0,Matches,Dundee,
+21,Ryan Howley,wls WAL,MF,20-096,10.0,2,230.0,2.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Dundee,
+22,Michael Mellon,sct SCO,FW,20-084,5.0,2,230.0,2.6,1.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,Matches,Dundee,
+23,Curtis Main,eng ENG,FW,31-252,5.0,1,133.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Dundee,
+24,Jon McCracken,sct SCO,GK,23-279,1.0,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Dundee,
+25,Harrison Sharp,sct SCO,GK,22-329,1.0,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Dundee,
+26,Charlie Reilly,sct SCO,MF,22-084,7.0,0,94.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Dundee,
+27,Diego Pineda,mx MEX,FW,28-325,3.0,0,26.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Dundee,
+28,Ryan Astley,wls WAL,DF,22-146,1.0,0,24.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Dundee,
+29,Max Anderson,sct SCO,MF,22-286,0.0,0,,,,,,,,,,,Matches,Dundee,
+30,Shaun Byrne,sct SCO,MF,30-263,0.0,0,,,,,,,,,,,Matches,Dundee,
+31,Luke Graham,sct SCO,MF,20-016,0.0,0,,,,,,,,,,,Matches,Dundee,
+32,Adam Legzdins,eng ENG,GK,37-091,0.0,0,,,,,,,,,,,Matches,Dundee,
+33,Marcel Lewis,eng ENG,MF,22-150,0.0,0,,,,,,,,,,,Matches,Dundee,
+34,Squad Total,,,26.4,26.0,286,2340.0,26.0,36.0,23.0,59.0,34.0,2.0,3.0,52.0,2.0,,Dundee,
+35,Opponent Total,,,27.3,26.0,286,2340.0,26.0,40.0,26.0,66.0,32.0,8.0,10.0,44.0,5.0,,Dundee,
+0,William Thomas Fish,eng ENG,DF,21-010,26.0,26,2335.0,25.9,1.0,1.0,2.0,1.0,0.0,0.0,6.0,0.0,Matches,Hibernian,
+1,David Marshall,sct SCO,GK,38-359,25.0,25,2183.0,24.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Hibernian,
+2,Joe Newell,eng ENG,MF,30-349,25.0,24,2134.0,23.7,2.0,4.0,6.0,2.0,0.0,0.0,8.0,0.0,Matches,Hibernian,
+3,Dylan Vente,nl NED,FW,24-294,23.0,21,1581.0,17.6,4.0,3.0,7.0,3.0,1.0,1.0,1.0,0.0,Matches,Hibernian,
+4,Jordan Obita,eng ENG,DF,30-081,22.0,19,1786.0,19.8,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,Matches,Hibernian,
+5,Elie Youan,fr FRA,"MF,FW",24-326,24.0,19,1754.0,19.5,5.0,3.0,8.0,5.0,0.0,0.0,1.0,0.0,Matches,Hibernian,
+6,Martin Boyle,au AUS,"FW,MF",30-308,21.0,19,1696.0,18.8,3.0,3.0,6.0,3.0,0.0,1.0,5.0,0.0,Matches,Hibernian,
+7,Lewis Miller,au AUS,DF,23-187,18.0,17,1454.0,16.2,2.0,0.0,2.0,2.0,0.0,0.0,7.0,1.0,Matches,Hibernian,
+8,Dylan Levitt,wls WAL,MF,23-102,20.0,16,1219.0,13.5,1.0,2.0,3.0,1.0,0.0,0.0,5.0,0.0,Matches,Hibernian,
+9,Jair Tavares,pt POR,MF,23-014,21.0,15,1307.0,14.5,2.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,Matches,Hibernian,
+10,Rocky Bushiri,be BEL,DF,24-089,15.0,13,1151.0,12.8,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,Matches,Hibernian,
+11,James Jeggo,au AUS,MF,32-015,20.0,11,1074.0,11.9,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,Matches,Hibernian,
+12,Paul Hanlon,sct SCO,DF,34-038,15.0,9,855.0,9.5,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,Matches,Hibernian,
+13,Lewis Stevenson,sct SCO,DF,36-053,12.0,9,820.0,9.1,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,Hibernian,
+14,Josh Campbell,sct SCO,MF,23-297,13.0,8,641.0,7.1,3.0,0.0,3.0,3.0,0.0,0.0,2.0,0.0,Matches,Hibernian,
+15,Christian Doidge,wls WAL,FW,31-186,18.0,6,651.0,7.2,3.0,2.0,5.0,3.0,0.0,0.0,2.0,0.0,Matches,Hibernian,
+16,Rory Whittaker,sct SCO,DF,16-201,11.0,5,468.0,5.2,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,Matches,Hibernian,
+17,Adam le Fondre,eng ENG,FW,37-087,14.0,4,547.0,6.1,3.0,1.0,4.0,2.0,1.0,1.0,0.0,0.0,Matches,Hibernian,
+18,Myziane Maolida,km COM,"MF,FW",25-013,6.0,4,371.0,4.1,2.0,1.0,3.0,2.0,0.0,0.0,0.0,0.0,Matches,Hibernian,
+19,Emiliano Marcondes,dk DEN,MF,28-355,5.0,3,330.0,3.7,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,Matches,Hibernian,
+20,Nectarios Triantis,au AUS,DF,20-292,4.0,3,277.0,3.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Hibernian,
+21,Nathan Moriah-Welsh,gy GUY,MF,21-346,4.0,3,249.0,2.8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Hibernian,
+22,Kanayochukwu Megwa,eng ENG,DF,19-359,4.0,2,163.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Hibernian,
+23,Allan Delferriere,be BEL,"MF,DF",21-361,3.0,2,115.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Hibernian,
+24,Jojo Wollacott,gh GHA,GK,27-172,2.0,1,99.0,1.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Hibernian,
+25,Jake Doyle-Hayes,ie IRL,MF,25-059,1.0,1,80.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Hibernian,
+26,Riley Harbottle,eng ENG,DF,23-154,1.0,1,64.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Hibernian,
+27,Luke Amos,eng ENG,MF,27-004,5.0,0,101.0,1.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Hibernian,
+28,Maksymilian Boruc,pl POL,GK,21-104,2.0,0,58.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Hibernian,
+29,Rudi Allan-Molotnikov,sct SCO,MF,17-280,3.0,0,47.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Hibernian,
+30,Eliezer Mayenda,es ESP,FW,18-295,1.0,0,45.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Hibernian,
+31,Harry McKirdy,eng ENG,"FW,MF",26-335,2.0,0,22.0,0.2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,Hibernian,
+32,Ewan Henderson,sct SCO,MF,23-337,1.0,0,20.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Hibernian,
+33,Josh Landers,sct SCO,FW,17-000,2.0,0,10.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Hibernian,
+34,Elias Hoff Melkersen,no NOR,FW,21-058,1.0,0,5.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Hibernian,
+35,Jacob Blaney,sct SCO,MF,19-172,0.0,0,,,,,,,,,,,Matches,Hibernian,
+36,Chris Cadden,sct SCO,"DF,MF",27-161,0.0,0,,,,,,,,,,,Matches,Hibernian,
+37,Murray Johnson,sct SCO,GK,19-106,0.0,0,,,,,,,,,,,Matches,Hibernian,
+38,Reuben McAllister,,MF,17-262,0.0,0,,,,,,,,,,,Matches,Hibernian,
+39,Squad Total,,,27.9,26.0,286,2340.0,26.0,32.0,24.0,56.0,30.0,2.0,3.0,54.0,1.0,,Hibernian,
+40,Opponent Total,,,27.2,26.0,286,2340.0,26.0,38.0,21.0,59.0,32.0,6.0,8.0,62.0,1.0,,Hibernian,
+0,Kelle Roos,nl NED,GK,31-272,,26,2340.0,26.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,Matches,Aberdeen,26.0
+1,Nicky Devlin,sct SCO,"DF,MF",30-133,,26,2280.0,25.3,2.0,1.0,3.0,2.0,0.0,0.0,3.0,0.0,Matches,Aberdeen,26.0
+2,Bojan Miovski,mk MKD,FW,24-248,,26,2238.0,24.9,13.0,2.0,15.0,10.0,3.0,4.0,2.0,0.0,Matches,Aberdeen,26.0
+3,Graeme Shinnie,sct SCO,MF,32-207,,26,2182.0,24.2,0.0,2.0,2.0,0.0,0.0,0.0,7.0,0.0,Matches,Aberdeen,26.0
+4,Stefan Gartenmann,dk DEN,DF,27-025,,21,1870.0,20.8,2.0,0.0,2.0,2.0,0.0,0.0,4.0,0.0,Matches,Aberdeen,21.0
+5,Jamie McGrath,ie IRL,MF,27-150,,21,1762.0,19.6,7.0,1.0,8.0,7.0,0.0,0.0,4.0,0.0,Matches,Aberdeen,23.0
+6,Leighton Clarkson,eng ENG,MF,22-131,,20,1877.0,20.9,1.0,2.0,3.0,1.0,0.0,0.0,2.0,0.0,Matches,Aberdeen,25.0
+7,Richard Jensen,fi FIN,DF,27-347,,20,1820.0,20.2,0.0,1.0,1.0,0.0,0.0,0.0,4.0,0.0,Matches,Aberdeen,22.0
+8,Slobodan Rubežić,me MNE,DF,23-343,,16,1394.0,15.5,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,Matches,Aberdeen,16.0
+9,Jack MacKenzie,sct SCO,"DF,MF",23-326,,16,1356.0,15.1,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,Matches,Aberdeen,17.0
+10,Duk,cv CPV,FW,24-011,,13,1233.0,13.7,4.0,4.0,8.0,4.0,0.0,0.0,4.0,0.0,Matches,Aberdeen,23.0
+11,Dante Polvara,us USA,MF,23-251,,13,1099.0,12.2,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,Matches,Aberdeen,20.0
+12,Connor Barron,sct SCO,MF,21-182,,12,1044.0,11.6,0.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,Matches,Aberdeen,17.0
+13,Jonny Hayes,ie IRL,MF,36-233,,7,675.0,7.5,1.0,0.0,1.0,1.0,0.0,0.0,3.0,0.0,Matches,Aberdeen,12.0
+14,James McGarry,nz NZL,"MF,DF",25-324,,6,439.0,4.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Aberdeen,9.0
+15,Angus MacDonald,eng ENG,DF,31-135,,5,519.0,5.8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Aberdeen,10.0
+16,Ester Sokler,si SVN,FW,24-327,,4,538.0,6.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,Matches,Aberdeen,18.0
+17,Shayden Morris,eng ENG,MF,22-116,,3,346.0,3.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Aberdeen,12.0
+18,Ryan Duncan,sct SCO,"MF,DF",20-040,,2,292.0,3.2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,Aberdeen,8.0
+19,Jack Milne,sct SCO,MF,21-017,,2,196.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Aberdeen,4.0
+20,Killian Phillips,ie IRL,MF,21-334,,1,117.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Aberdeen,5.0
+21,Pape Habib Guèye,sn SEN,FW,24-160,,0,79.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Aberdeen,4.0
+22,Junior Hoilett,ca CAN,"FW,MF",33-267,,0,44.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Aberdeen,2.0
+23,Alfie Bavidge,sct SCO,FW,17-322,,0,,,,,,,,,,,Matches,Aberdeen,0.0
+24,Vicente Besuijen,nl NED,"FW,MF",22-323,,0,,,,,,,,,,,Matches,Aberdeen,0.0
+25,Or Dadya,il ISR,DF,26-230,,0,,,,,,,,,,,Matches,Aberdeen,0.0
+26,Ross Doohan,sct SCO,GK,25-335,,0,,,,,,,,,,,Matches,Aberdeen,0.0
+27,Findlay Marshall,sct SCO,MF,17-316,,0,,,,,,,,,,,Matches,Aberdeen,0.0
+28,Tom Ritchie,sct SCO,GK,21-031,,0,,,,,,,,,,,Matches,Aberdeen,0.0
+29,Anthony Stewart,eng ENG,DF,31-162,,0,,,,,,,,,,,Matches,Aberdeen,0.0
+30,Squad Total,,,27.0,,286,2340.0,26.0,31.0,18.0,49.0,28.0,3.0,4.0,47.0,0.0,,Aberdeen,26.0
+31,Opponent Total,,,27.4,,286,2340.0,26.0,43.0,29.0,72.0,37.0,6.0,7.0,69.0,3.0,,Aberdeen,26.0
+0,Liam Kelly,sct SCO,GK,28-035,27.0,27,2430.0,27.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,Matches,Motherwell,
+1,Blair Spittal,sct SCO,"MF,FW",28-070,26.0,26,2340.0,26.0,6.0,8.0,14.0,5.0,1.0,1.0,4.0,0.0,Matches,Motherwell,
+2,Stephen O'Donnell,sct SCO,"MF,DF",31-292,27.0,23,2003.0,22.3,0.0,1.0,1.0,0.0,0.0,0.0,4.0,0.0,Matches,Motherwell,
+3,Bevis Mugabi,ug UGA,DF,28-302,25.0,23,1957.0,21.7,2.0,0.0,2.0,2.0,0.0,0.0,2.0,0.0,Matches,Motherwell,
+4,Harry Paton,ca CAN,MF,25-280,22.0,20,1775.0,19.7,1.0,0.0,1.0,1.0,0.0,0.0,4.0,1.0,Matches,Motherwell,
+5,Theo Bair,ca CAN,FW,24-184,27.0,20,1657.0,18.4,10.0,3.0,13.0,8.0,2.0,2.0,0.0,0.0,Matches,Motherwell,
+6,Paul McGinn,sct SCO,DF,33-128,20.0,18,1618.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,Matches,Motherwell,
+7,Dan Casey,ie IRL,DF,26-121,18.0,18,1603.0,17.8,1.0,2.0,3.0,1.0,0.0,0.0,6.0,0.0,Matches,Motherwell,
+8,Callum Slattery,eng ENG,"MF,FW",25-019,20.0,18,1563.0,17.4,1.0,0.0,1.0,1.0,0.0,1.0,7.0,0.0,Matches,Motherwell,
+9,Brodie Gilmore,nir NIR,"MF,DF",19-297,18.0,17,1495.0,16.6,0.0,1.0,1.0,0.0,0.0,0.0,7.0,0.0,Matches,Motherwell,
+10,Georgie Gent,eng ENG,MF,20-157,19.0,11,1123.0,12.5,0.0,3.0,3.0,0.0,0.0,0.0,3.0,0.0,Matches,Motherwell,
+11,Mika Biereth,dk DEN,"FW,MF",21-019,14.0,11,1017.0,11.3,6.0,5.0,11.0,5.0,1.0,1.0,2.0,0.0,Matches,Motherwell,
+12,Davor Zdravkovski,mk MKD,MF,25-344,17.0,11,1017.0,11.3,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,Matches,Motherwell,
+13,Lennon Miller,sct SCO,MF,17-186,14.0,11,961.0,10.7,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,Matches,Motherwell,
+14,Shane Blaney,ie IRL,DF,25-038,13.0,11,915.0,10.2,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,Matches,Motherwell,
+15,Calum Butcher,eng ENG,"DF,MF",33-001,13.0,9,867.0,9.6,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,Matches,Motherwell,
+16,Conor Wilkinson,ie IRL,"FW,MF",29-035,14.0,7,650.0,7.2,3.0,1.0,4.0,3.0,0.0,0.0,3.0,0.0,Matches,Motherwell,
+17,Adam Devine,sct SCO,MF,20-339,4.0,3,259.0,2.9,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,Matches,Motherwell,
+18,Jack Vale,wls WAL,"FW,MF",22-361,4.0,3,232.0,2.6,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,Matches,Motherwell,
+19,Andy Halliday,sct SCO,MF,32-139,3.0,3,184.0,2.0,1.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,Matches,Motherwell,
+20,Oli Shaw,sct SCO,"MF,FW",25-168,17.0,2,363.0,4.0,0.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,Matches,Motherwell,
+21,Jonathan Obika,eng ENG,FW,33-168,9.0,2,252.0,2.8,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,Matches,Motherwell,
+22,Pape Souaré,sn SEN,MF,33-266,3.0,2,184.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Motherwell,
+23,Joe Efford,us USA,FW,27-182,2.0,1,48.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Motherwell,
+24,Sam Nicholson,sct SCO,"FW,MF",29-038,6.0,0,94.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,Matches,Motherwell,
+25,Nathan McGinley,eng ENG,DF,27-165,2.0,0,19.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Motherwell,
+26,Mark Ferrie,sct SCO,FW,18-087,2.0,0,13.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Motherwell,
+27,Luca Ross,sct SCO,FW,17-200,1.0,0,4.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,Matches,Motherwell,
+28,Arran Bone,sct SCO,DF,17-226,0.0,0,,,,,,,,,,,Matches,Motherwell,
+29,Jili Buyabu,eng ENG,MF,22-202,0.0,0,,,,,,,,,,,Matches,Motherwell,
+30,Callan Elliot,nz NZL,DF,24-235,0.0,0,,,,,,,,,,,Matches,Motherwell,
+31,Ricki Lamie,sct SCO,DF,30-246,0.0,0,,,,,,,,,,,Matches,Motherwell,
+32,Barry Maguire,sct SCO,"DF,MF",25-306,0.0,0,,,,,,,,,,,Matches,Motherwell,
+33,Brannan McDermott,sct SCO,DF,17-363,0.0,0,,,,,,,,,,,Matches,Motherwell,
+34,Aston Oxborough,eng ENG,GK,25-294,0.0,0,,,,,,,,,,,Matches,Motherwell,
+35,Max Ross,sct SCO,DF,17-323,0.0,0,,,,,,,,,,,Matches,Motherwell,
+36,Dylan Wells,sct SCO,MF,17-344,0.0,0,,,,,,,,,,,Matches,Motherwell,
+37,Olly Whyte,,,,0.0,0,,,,,,,,,,,Matches,Motherwell,
+38,Ewan Wilson,sct SCO,DF,19-100,0.0,0,,,,,,,,,,,Matches,Motherwell,
+39,Squad Total,,,26.6,27.0,297,2430.0,27.0,36.0,28.0,64.0,32.0,4.0,5.0,69.0,3.0,,Motherwell,
+40,Opponent Total,,,27.2,27.0,297,2430.0,27.0,43.0,29.0,72.0,40.0,3.0,5.0,52.0,1.0,,Motherwell,
+0,Dimitar Mitov,bg BUL,GK,27-036,27.0,27,2430.0,27.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,Matches,St Johnstone,
+1,Luke Robinson,sct SCO,"DF,MF",22-100,25.0,25,2250.0,25.0,0.0,1.0,1.0,0.0,0.0,0.0,5.0,0.0,Matches,St Johnstone,
+2,Graham Carey,ie IRL,"MF,FW",34-283,25.0,23,2091.0,23.2,2.0,5.0,7.0,2.0,0.0,0.0,4.0,0.0,Matches,St Johnstone,
+3,Liam Gordon,sct SCO,DF,28-032,23.0,22,1872.0,20.8,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,Matches,St Johnstone,
+4,Matthew Smith,wls WAL,MF,24-097,24.0,22,1863.0,20.7,1.0,2.0,3.0,1.0,0.0,0.0,3.0,0.0,Matches,St Johnstone,
+5,Daniel Phillips,tt TRI,MF,23-040,22.0,21,1820.0,20.2,0.0,2.0,2.0,0.0,0.0,0.0,8.0,0.0,Matches,St Johnstone,
+6,Andrew Considine,sct SCO,DF,36-332,22.0,20,1781.0,19.8,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,Matches,St Johnstone,
+7,Ryan McGowan,au AUS,"DF,MF",34-196,18.0,16,1471.0,16.3,1.0,0.0,1.0,1.0,0.0,0.0,3.0,0.0,Matches,St Johnstone,
+8,Maksym Kucheriavyi,ua UKR,MF,21-294,23.0,14,1207.0,13.4,2.0,0.0,2.0,2.0,0.0,0.0,3.0,0.0,Matches,St Johnstone,
+9,Tony Gallacher,sct SCO,"MF,DF",24-219,12.0,9,832.0,9.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,St Johnstone,
+10,Dara Costelloe,ie IRL,"MF,FW",21-078,12.0,9,788.0,8.8,1.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,Matches,St Johnstone,
+11,Sven Sprangler,at AUT,MF,28-337,16.0,8,848.0,9.4,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,Matches,St Johnstone,
+12,James Brown,mt MLT,"MF,DF",26-046,11.0,8,749.0,8.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,St Johnstone,
+13,Oludare Olufunwa,eng ENG,"DF,MF",22-213,11.0,8,640.0,7.1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,St Johnstone,
+14,Chris Kane,sct SCO,FW,29-175,15.0,7,790.0,8.8,1.0,0.0,1.0,1.0,0.0,1.0,3.0,0.0,Matches,St Johnstone,
+15,Diallang Jaiyesimi,eng ENG,"FW,MF",25-296,12.0,7,575.0,6.4,1.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,Matches,St Johnstone,
+16,Stevie May,sct SCO,FW,31-116,17.0,6,643.0,7.1,0.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,Matches,St Johnstone,
+17,Nicky Clark,sct SCO,"FW,MF",32-269,11.0,6,558.0,6.2,4.0,0.0,4.0,4.0,0.0,0.0,0.0,0.0,Matches,St Johnstone,
+18,Sam McClelland,nir NIR,DF,22-054,7.0,5,527.0,5.9,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,Matches,St Johnstone,
+19,David Keltjens,il ISR,"MF,DF",28-261,5.0,5,347.0,3.9,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,Matches,St Johnstone,
+20,Fran Franczak,,"MF,DF",,6.0,5,334.0,3.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,St Johnstone,
+21,Benjamin Mbunga-Kimpioka,se SWE,FW,24-006,6.0,4,290.0,3.2,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,Matches,St Johnstone,
+22,Drey Wright,eng ENG,"MF,DF",28-303,4.0,4,287.0,3.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,St Johnstone,
+23,Adama Sidibeh,eng ENG,FW,25-247,5.0,3,319.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,St Johnstone,
+24,Connor Smith,sct SCO,MF,22-026,5.0,3,315.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,Matches,St Johnstone,
+25,Luke Jephcott,wls WAL,FW,24-032,8.0,3,290.0,3.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,St Johnstone,
+26,Jay Turner-Cooke,eng ENG,MF,20-058,6.0,2,225.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,St Johnstone,
+27,Cammy Ballantyne,sct SCO,MF,23-311,2.0,2,147.0,1.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,St Johnstone,
+28,Kerr Smith,sct SCO,DF,19-077,3.0,2,143.0,1.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,St Johnstone,
+29,Cameron MacPherson,sct SCO,MF,25-060,7.0,1,184.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,Matches,St Johnstone,
+30,Taylor Steven,sct SCO,FW,19-163,2.0,0,33.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,St Johnstone,
+31,Callum Booth,sct SCO,"DF,MF",32-273,0.0,0,,,,,,,,,,,Matches,St Johnstone,
+32,Alexander Ferguson,sct SCO,FW,20-170,0.0,0,,,,,,,,,,,Matches,St Johnstone,
+33,Filip Franczak,sct SCO,MF,17-259,0.0,0,,,,,,,,,,,Matches,St Johnstone,
+34,Ben McCrystal,sct SCO,MF,17-353,0.0,0,,,,,,,,,,,Matches,St Johnstone,
+35,Liam Parker,sct SCO,DF,19-293,0.0,0,,,,,,,,,,,Matches,St Johnstone,
+36,Dave Richards,wls WAL,GK,30-058,0.0,0,,,,,,,,,,,Matches,St Johnstone,
+37,Ross Sinclair,sct SCO,GK,22-296,0.0,0,,,,,,,,,,,Matches,St Johnstone,
+38,Squad Total,,,27.3,27.0,297,2430.0,27.0,16.0,11.0,27.0,16.0,0.0,1.0,61.0,3.0,,St Johnstone,
+39,Opponent Total,,,27.3,27.0,297,2430.0,27.0,36.0,23.0,59.0,30.0,6.0,6.0,44.0,0.0,,St Johnstone,
+0,Simon Murray,sct SCO,FW,31-349,,25,1972.0,21.9,7.0,3.0,10.0,7.0,0.0,0.0,5.0,0.0,Matches,Ross County,26.0
+1,James Brown,ie IRL,"MF,DF",25-268,,24,2042.0,22.7,1.0,2.0,3.0,1.0,0.0,0.0,5.0,1.0,Matches,Ross County,25.0
+2,Yan Dhanda,eng ENG,MF,25-075,,24,1847.0,20.5,2.0,3.0,5.0,2.0,0.0,0.0,4.0,0.0,Matches,Ross County,25.0
+3,Ryan Leak,wls WAL,DF,25-364,,21,1864.0,20.7,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,Matches,Ross County,21.0
+4,Ross Laidlaw,sct SCO,GK,31-230,,19,1710.0,19.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Ross County,19.0
+5,Jack Baldwin,eng ENG,DF,30-242,,19,1709.0,19.0,0.0,1.0,1.0,0.0,0.0,0.0,4.0,1.0,Matches,Ross County,19.0
+6,Jordan White,sct SCO,FW,32-023,,19,1596.0,17.7,3.0,2.0,5.0,3.0,0.0,0.0,6.0,0.0,Matches,Ross County,26.0
+7,Connor Randall,eng ENG,MF,28-129,,17,1459.0,16.2,1.0,0.0,1.0,1.0,0.0,0.0,3.0,0.0,Matches,Ross County,17.0
+8,Will Nightingale,eng ENG,DF,28-209,,14,1357.0,15.1,0.0,0.0,0.0,0.0,0.0,0.0,5.0,1.0,Matches,Ross County,17.0
+9,Victor Loturi,ca CAN,MF,22-282,,14,1178.0,13.1,1.0,0.0,1.0,1.0,0.0,0.0,6.0,0.0,Matches,Ross County,19.0
+10,Ben Purrington,eng ENG,"MF,DF",27-283,,11,949.0,10.5,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,Matches,Ross County,12.0
+11,Scott Allardice,sct SCO,MF,25-333,,10,908.0,10.1,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,Matches,Ross County,13.0
+12,George Harmon,eng ENG,"DF,MF",23-081,,7,715.0,7.9,0.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,Matches,Ross County,19.0
+13,Loick Ayina,fr FRA,DF,20-313,,7,630.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Ross County,7.0
+14,George Wickens,eng ENG,GK,22-111,,7,630.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Ross County,7.0
+15,Josh Sims,eng ENG,"MF,FW",26-336,,6,637.0,7.1,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,Matches,Ross County,17.0
+16,Josh Reid,sct SCO,"MF,DF",21-300,,6,567.0,6.3,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,Matches,Ross County,9.0
+17,Kyle Turner,sct SCO,MF,26-109,,5,692.0,7.7,1.0,1.0,2.0,1.0,0.0,0.0,3.0,0.0,Matches,Ross County,17.0
+18,Eamonn Brophy,sct SCO,FW,27-354,,5,592.0,6.6,3.0,1.0,4.0,3.0,0.0,0.0,1.0,0.0,Matches,Ross County,15.0
+19,Teddy Jenks,eng ENG,MF,21-352,,5,427.0,4.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Ross County,5.0
+20,Eli King,wls WAL,MF,21-066,,5,413.0,4.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Ross County,6.0
+21,Max Sheaf,eng ENG,MF,23-354,,4,407.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Ross County,9.0
+22,Cameron Borthwick-Jackson,eng ENG,DF,27-025,,4,303.0,3.4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Ross County,4.0
+23,Michee Efete,cg CGO,DF,24-353,,3,312.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Ross County,5.0
+24,Dylan Smith,sct SCO,DF,17-251,,2,171.0,1.9,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,Ross County,6.0
+25,Brandon Khela,eng ENG,MF,19-039,,2,155.0,1.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Ross County,5.0
+26,Alex Samuel,wls WAL,FW,28-160,,1,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Ross County,14.0
+27,Jay Henderson,sct SCO,MF,21-357,,0,99.0,1.1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Ross County,5.0
+28,Scott High,sct SCO,MF,23-012,,0,27.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Ross County,2.0
+29,Jordan Tillson,eng ENG,"DF,MF",30-359,,0,19.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Ross County,1.0
+30,Ross Munro,sct SCO,GK,23-332,,0,,,,,,,,,,,Matches,Ross County,0.0
+31,Logan Ross,sct SCO,GK,19-291,,0,,,,,,,,,,,Matches,Ross County,0.0
+32,Squad Total,,,27.1,,286,2340.0,26.0,21.0,17.0,38.0,21.0,0.0,0.0,61.0,3.0,,Ross County,26.0
+33,Opponent Total,,,27.2,,286,2340.0,26.0,44.0,34.0,78.0,41.0,3.0,5.0,39.0,0.0,,Ross County,26.0
+0,Jason Holt,sct SCO,MF,31-008,27.0,26,2309.0,25.7,0.0,1.0,1.0,0.0,0.0,0.0,5.0,0.0,Matches,Livingston,
+1,Joel Nouble,eng ENG,"FW,MF",28-039,25.0,23,2013.0,22.4,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,Livingston,
+2,James Penrice,sct SCO,"MF,DF",25-067,24.0,22,1898.0,21.1,0.0,2.0,2.0,0.0,0.0,0.0,3.0,0.0,Matches,Livingston,
+3,Andrew Shinnie,sct SCO,MF,34-225,27.0,22,1685.0,18.7,1.0,0.0,1.0,0.0,1.0,2.0,2.0,0.0,Matches,Livingston,
+4,Shamal George,eng ENG,GK,26-052,21.0,21,1890.0,21.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,Matches,Livingston,
+5,Ayo Obileye,eng ENG,DF,29-178,21.0,21,1872.0,20.8,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,Matches,Livingston,
+6,Scott Pittman,sct SCO,MF,31-233,21.0,19,1692.0,18.8,2.0,0.0,2.0,2.0,0.0,0.0,2.0,0.0,Matches,Livingston,
+7,Michael Devlin,sct SCO,DF,30-147,18.0,17,1531.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,Matches,Livingston,
+8,Jamie Brandon,sct SCO,"MF,DF",26-022,22.0,16,1362.0,15.1,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,Matches,Livingston,
+9,Bruce Anderson,sct SCO,FW,25-157,25.0,12,1388.0,15.4,5.0,0.0,5.0,5.0,0.0,1.0,2.0,0.0,Matches,Livingston,
+10,Michael Nottingham,kn SKN,DF,34-319,16.0,11,1102.0,12.2,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,Matches,Livingston,
+11,Kurtis Guthrie,,FW,30-312,22.0,11,1078.0,12.0,1.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,Matches,Livingston,
+12,Luiyi de Lucas,do DOM,DF,29-180,12.0,11,997.0,11.1,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,Matches,Livingston,
+13,Sean Kelly,sct SCO,"DF,MF",30-118,12.0,10,892.0,9.9,3.0,0.0,3.0,0.0,3.0,3.0,1.0,0.0,Matches,Livingston,
+14,Mohammed Sangare,lr LBR,"MF,DF",25-061,19.0,10,890.0,9.9,1.0,1.0,2.0,1.0,0.0,0.0,4.0,0.0,Matches,Livingston,
+15,Stephen Kelly,sct SCO,"FW,MF",23-320,19.0,8,721.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Livingston,
+16,Daniel Mackay,sct SCO,MF,22-313,15.0,5,534.0,5.9,1.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,Matches,Livingston,
+17,Cristian Montaño,co COL,"MF,DF",32-078,10.0,5,477.0,5.3,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,Matches,Livingston,
+18,Steven Bradley,sct SCO,MF,21-347,11.0,5,437.0,4.9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Livingston,
+19,Jack Hamilton,sct SCO,GK,29-342,4.0,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Livingston,
+20,David Carson,eng ENG,MF,28-160,4.0,4,342.0,3.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Livingston,
+21,Tete Yengi,au AUS,FW,23-091,6.0,3,322.0,3.6,2.0,1.0,3.0,1.0,1.0,1.0,0.0,0.0,Matches,Livingston,
+22,Tom Parkes,eng ENG,DF,32-043,9.0,3,249.0,2.8,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,Matches,Livingston,
+23,Shaun Donnellan,ie IRL,DF,27-134,3.0,3,218.0,2.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Livingston,
+24,Michael McGovern,nir NIR,GK,39-230,2.0,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Livingston,
+25,Miles Welch-Hayes,eng ENG,DF,27-125,3.0,2,161.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Livingston,
+26,Danny Lloyd,eng ENG,MF,32-086,4.0,1,83.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Livingston,
+27,Samson Lawal,ng NGA,MF,19-308,2.0,0,25.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Livingston,
+28,Morgan Boyes,wls WAL,DF,22-311,1.0,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Livingston,
+29,Dylan Bahamboula,cg CGO,"FW,MF",28-281,0.0,0,,,,,,,,,,,Matches,Livingston,
+30,Sam Culbert,,MF,,0.0,0,,,,,,,,,,,Matches,Livingston,
+31,Calan Ledingham,sct SCO,DF,16-341,0.0,0,,,,,,,,,,,Matches,Livingston,
+32,Squad Total,,,28.9,27.0,297,2430.0,27.0,17.0,9.0,26.0,12.0,5.0,7.0,51.0,1.0,,Livingston,
+33,Opponent Total,,,27.0,27.0,297,2430.0,27.0,44.0,32.0,76.0,42.0,2.0,5.0,42.0,4.0,,Livingston,
