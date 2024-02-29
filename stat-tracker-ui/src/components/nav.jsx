@@ -1,9 +1,11 @@
+import "../styles/styles.css";
+
 const Nav = () => {
   return (
     <>
-      <nav>
+      <nav className="nav">
         <a href="#">Teams</a>
-        <a href="#">StatHoose</a>
+        <a className="nav-brand" href="#">StatHoose</a>
         <a href="#">Players</a>
       </nav>
     </>

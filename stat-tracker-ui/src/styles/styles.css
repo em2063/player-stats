@@ -9,17 +9,33 @@
 
 body {
   min-height: 100vh;
+  background-color: #b9d9eb;
 }
 
-header {
+.nav {
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
   align-items: center;
   height: 75px;
+  background-color: #007fff;
 }
 
-nav {
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+a:hover {
+  cursor: pointer;
+  color: #72a0c1;
+}
+
+.nav-brand {
+  font-size: xx-large;
+}
+
+.hero {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
 }

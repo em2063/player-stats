@@ -5,9 +5,7 @@ import "./styles/styles.css";
 const App = () => {
   return (
     <>
-      <header>
-        <Nav></Nav>
-      </header>
+      <Nav></Nav>
       <Home></Home>
     </>
   );
