@@ -51,7 +51,7 @@ a:hover {
   background-color: #fff;
   padding: 10px;
   border-radius: 5px;
-  cursor: pointer;
+  color: black;
 }
 
 .hero-outer {
@@ -70,8 +70,28 @@ a:hover {
   justify-content: center;
   align-items: center;
   background-color: #f0f8ff;
+  width: 100%;
+  bottom: 0;
 }
 
 .footer div {
   text-align: center;
+}
+
+.footer a {
+  color: #40826d;
+}
+
+.players-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.teams-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }

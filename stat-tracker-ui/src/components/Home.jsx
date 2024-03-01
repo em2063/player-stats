@@ -1,4 +1,4 @@
-import leagueLogo from "../assets/league-logo.png";
+import { Link } from "react-router-dom";
 
 const Home = () => {
   return (
@@ -9,7 +9,9 @@ const Home = () => {
             <h1>Step into the world of Scottish football</h1>
             <p>The quickest way to view player stats and insights</p>
           </div>
-          <div className="hero-button">Get Started</div>
+          <Link to="/teams" className="hero-button">
+            Get Started
+          </Link>
         </div>
       </div>
     </>
