@@ -2,7 +2,7 @@ const Teams = () => {
   return (
     <>
       <div className="teams-container">
-        <p>Teamsss</p>
+        <p>Teams</p>
       </div>
     </>
   );
