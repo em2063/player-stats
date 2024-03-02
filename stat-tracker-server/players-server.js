@@ -1,5 +1,4 @@
 const mysql = require("mysql");
-const { json } = require("react-router-dom");
 
 // create connection to mysql
 const connection = mysql.createConnection({
