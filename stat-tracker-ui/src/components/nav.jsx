@@ -6,7 +6,7 @@ const Nav = () => {
     <>
       <nav className="nav">
         <Link to="/teams">Teams</Link>
-        <Link className="nav-brand" to="/home">
+        <Link className="nav-brand" to="/">
           StatHoose
         </Link>
         <Link to="/players">Players</Link>
