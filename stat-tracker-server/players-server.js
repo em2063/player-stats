@@ -1,6 +1,11 @@
+const express = require("express");
 const mysql = require("mysql");
+const cors = require("cors");
 
-// create connection to mysql
+const app = express();
+app.use(cors());
+
+// Create connection to MySQL
 const connection = mysql.createConnection({
   host: "localhost",
   user: "root",
@@ -8,32 +13,29 @@ const connection = mysql.createConnection({
   database: "players",
 });
 
-// Connect to the mysql server
+// Connect to the MySQL server
 connection.connect((err) => {
   if (err) {
-    console.error("can't connect:", err.stack);
+    console.log("Can't connect:", err);
     return;
   }
   console.log("Connected");
+});
 
-  // test query
+// Define a route to fetch data
+app.get("/players", (req, res) => {
+  // Perform the desired query
   connection.query("SELECT * FROM players", (err, results) => {
     if (err) {
       console.error("Error executing query:", err.stack);
-      return;
+      return res.status(500).json({ error: "Internal Server Error" });
     }
 
-    // test results
-    console.log("Player data:", results);
-
-    // Close connection
-    connection.end((err) => {
-      if (err) {
-        console.error("Error closing connection:", err.stack);
-        return;
-      }
-
-      console.log("Connection closed");
-    });
+    // Send the results as JSON
+    res.json(results);
   });
+});
+
+app.listen(5000, () => {
+  console.log("listening on local host");
 });
