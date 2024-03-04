@@ -33,6 +33,6 @@ for team_url in team_urls:
 
 player_df = pd.concat(all_players)
 print("creating csv...")
-player_df.to_csv("players.csv")
+player_df.to_csv("players.csv", encoding="utf-8")
 
     
