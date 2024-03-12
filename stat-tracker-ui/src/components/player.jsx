@@ -33,31 +33,37 @@ const Players = () => {
   }, []);
 
   if (!players) {
-    return <div>Loading...</div>;
+    return (
+      <div id="players-container">
+        <div className="loader"></div>
+      </div>
+    );
   }
 
   return (
     <>
-      <table className="player-table">
-        <tr className="table-header">
-          <td>Player</td>
-          <td>Nation</td>
-          <td>Position</td>
-          <td>Age</td>
-          <td>Matches Played</td>
-          <td>Minutes</td>
-          <td>Goals</td>
-          <td>Assists</td>
-          <td>Penalty Goals</td>
-          <td>Penalties Attempted</td>
-          <td>Yellow</td>
-          <td>Red</td>
-          <td>Team</td>
-        </tr>
-        {players.map((player) => (
-          <PlayerRow key={player.id} player={player} />
-        ))}
-      </table>
+      <div id="players-container">
+        <table className="player-table">
+          <tr className="table-header">
+            <td>Player</td>
+            <td>Nation</td>
+            <td>Position</td>
+            <td>Age</td>
+            <td>Matches Played</td>
+            <td>Minutes</td>
+            <td>Goals</td>
+            <td>Assists</td>
+            <td>Penalty Goals</td>
+            <td>Penalties Attempted</td>
+            <td>Yellow</td>
+            <td>Red</td>
+            <td>Team</td>
+          </tr>
+          {players.map((player) => (
+            <PlayerRow key={player.id} player={player} />
+          ))}
+        </table>
+      </div>
     </>
   );
 };
