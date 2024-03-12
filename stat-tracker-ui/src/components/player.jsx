@@ -22,6 +22,7 @@ let PlayerRow = ({ player }) => {
 
 const Players = () => {
   const [players, setPlayers] = useState(null);
+  const [visiblePlayers, setVisiblePlayers] = useState(10);
 
   useEffect(() => {
     fetch("http://localhost:3000/players")
@@ -39,6 +40,12 @@ const Players = () => {
       </div>
     );
   }
+
+  const loadMore = () => {
+    setVisiblePlayers((prevcount) => prevcount + 10);
+  };
+
+  const renderedPlayers = players.slice(0, visiblePlayers);
 
   return (
     <>
@@ -59,10 +66,13 @@ const Players = () => {
             <td>Red</td>
             <td>Team</td>
           </tr>
-          {players.map((player) => (
+          {renderedPlayers.map((player) => (
             <PlayerRow key={player.id} player={player} />
           ))}
         </table>
+        {visiblePlayers < players.length && (
+          <div onClick={loadMore}>Load More</div>
+        )}
       </div>
     </>
   );
