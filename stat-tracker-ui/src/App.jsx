@@ -1,6 +1,6 @@
 import Home from "./components/Home.jsx";
-import Footer from "./components/footer.jsx";
 import Nav from "./components/nav.jsx";
+import Footer from "./components/footer.jsx";
 import Players from "./components/player.jsx";
 import Teams from "./components/teams.jsx";
 import "./styles/styles.css";

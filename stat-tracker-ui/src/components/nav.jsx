@@ -7,7 +7,7 @@ const Nav = () => {
       <nav className="nav">
         <Link to="/teams">Teams</Link>
         <Link className="nav-brand" to="/">
-          StatHoose
+          StatPadder
         </Link>
         <Link to="/players">Players</Link>
       </nav>
