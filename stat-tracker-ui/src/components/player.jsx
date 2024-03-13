@@ -41,7 +41,8 @@ const Players = () => {
     );
   }
 
-  const loadMore = () => {
+  const loadMore = (event) => {
+    event.preventDefault();
     setVisiblePlayers((prevcount) => prevcount + 10);
   };
 
@@ -71,7 +72,9 @@ const Players = () => {
           ))}
         </table>
         {visiblePlayers < players.length && (
-          <div onClick={loadMore}>Load More</div>
+          <div id="load-more" onClick={(event) => loadMore(event)}>
+            Load More
+          </div>
         )}
       </div>
     </>
