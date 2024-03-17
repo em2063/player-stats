@@ -22,7 +22,8 @@ let PlayerRow = ({ player }) => {
 
 const Players = () => {
   const [players, setPlayers] = useState(null);
-  const [visiblePlayers, setVisiblePlayers] = useState(10);
+  const [visiblePlayers, setVisiblePlayers] = useState(20);
+  const [search, setSearch] = useState("");
 
   useEffect(() => {
     fetch("http://localhost:3000/players")
@@ -46,7 +47,15 @@ const Players = () => {
     setVisiblePlayers((prevcount) => prevcount + 10);
   };
 
-  const renderedPlayers = players.slice(0, visiblePlayers);
+  const searchChange = (event) => {
+    setSearch(event.target.value);
+  };
+
+  const filteredPlayers = players.filter((player) =>
+    player.Player.toLowerCase().includes(search.toLowerCase())
+  );
+
+  const renderedPlayers = filteredPlayers.slice(0, visiblePlayers);
 
   return (
     <>
@@ -62,6 +71,8 @@ const Players = () => {
             type="text"
             id="player-input"
             placeholder="Search for a player!"
+            value={search}
+            onChange={searchChange}
           />
         </div>
       </div>
