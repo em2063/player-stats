@@ -50,6 +50,12 @@ const Players = () => {
 
   return (
     <>
+      <div id="player-hero">
+        <h1 id="player-hero-h1">
+          Find your <span className="word-highlight">favourite</span> player
+        </h1>
+        <h4 className="player-hero-h4">Search through 200+ players!</h4>
+      </div>
       <div className="players-page-container">
         <div id="players-container">
           <table className="player-table">
