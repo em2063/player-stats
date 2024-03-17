@@ -54,7 +54,16 @@ const Players = () => {
         <h1 id="player-hero-h1">
           Find your <span className="word-highlight">favourite</span> player
         </h1>
-        <h4 className="player-hero-h4">Search through 200+ players!</h4>
+        <h4 id="player-hero-h4">Search through 200+ players!</h4>
+      </div>
+      <div id="player-form-container">
+        <div id="player-form">
+          <input
+            type="text"
+            id="player-input"
+            placeholder="Search for a player!"
+          />
+        </div>
       </div>
       <div className="players-page-container">
         <div id="players-container">

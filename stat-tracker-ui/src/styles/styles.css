@@ -106,6 +106,20 @@ a:hover {
   margin: 20px;
 }
 
+#player-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#player-form input {
+  padding: 12px;
+  max-width: 300px;
+  width: 100%;
+  border: 2px solid #ccc;
+  border-radius: 6px;
+}
+
 .teams-container {
   height: 100vh;
   display: flex;
