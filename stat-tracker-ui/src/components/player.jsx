@@ -76,34 +76,43 @@ const Players = () => {
           />
         </div>
       </div>
-      <div className="players-page-container">
-        <div id="players-container">
-          <table className="player-table">
-            <tr className="table-header">
-              <td>Player</td>
-              <td>Nation</td>
-              <td>Position</td>
-              <td>Age</td>
-              <td>Matches Played</td>
-              <td>Minutes</td>
-              <td>Goals</td>
-              <td>Assists</td>
-              <td>Penalty Goals</td>
-              <td>Penalties Attempted</td>
-              <td>Yellow</td>
-              <td>Red</td>
-              <td>Team</td>
-            </tr>
-            {renderedPlayers.map((player) => (
-              <PlayerRow key={player.id} player={player} />
-            ))}
-          </table>
-          {visiblePlayers < players.length && (
-            <div id="load-more" onClick={(event) => loadMore(event)}>
-              Load More
-            </div>
-          )}
-        </div>
+      <div id="players-page-container">
+        {filteredPlayers.length === 0 && (
+          <div id="player-not-found-container">
+            <h1>Player not found</h1>
+            <h4>Try searching again!</h4>
+          </div>
+        )}
+
+        {filteredPlayers.length > 0 && (
+          <div id="players-container">
+            <table className="player-table">
+              <tr className="table-header">
+                <td>Player</td>
+                <td>Nation</td>
+                <td>Position</td>
+                <td>Age</td>
+                <td>Matches Played</td>
+                <td>Minutes</td>
+                <td>Goals</td>
+                <td>Assists</td>
+                <td>Penalty Goals</td>
+                <td>Penalties Attempted</td>
+                <td>Yellow</td>
+                <td>Red</td>
+                <td>Team</td>
+              </tr>
+              {renderedPlayers.map((player) => (
+                <PlayerRow key={player.id} player={player} />
+              ))}
+            </table>
+            {visiblePlayers < players.length && (
+              <div id="load-more" onClick={(event) => loadMore(event)}>
+                Load More
+              </div>
+            )}
+          </div>
+        )}
       </div>
     </>
   );
