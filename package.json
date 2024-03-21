@@ -6,15 +6,5 @@
     "fs": "^0.0.1-security",
     "mysql": "^2.18.1",
     "react-router-dom": "^6.22.2"
-  },
-  "scripts": {
-    "start": "npm-run-all --parallel start:ui start:server start:db",
-    "start:ui": "cd C:/Users/Ethan/Projects/player-stats/stat-tracker-ui && npm run dev",
-    "start:server": "cd C:/Users/Ethan/Projects/player-stats/stat-tracker-ui && npm start",
-    "start:db": "mysql-workbench",
-    "open:browser": "sleep 10 && xdg-open http://localhost:3000"
-  },
-  "devDependencies": {
-    "npm-run-all": "^4.1.5"
   }
 }
