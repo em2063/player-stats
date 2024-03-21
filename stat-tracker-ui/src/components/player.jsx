@@ -59,11 +59,11 @@ const Players = () => {
 
   return (
     <>
-      <div id="player-hero">
-        <h1 id="player-hero-h1">
+      <div className="team-player-hero">
+        <h1 className="team-player-hero-h1">
           Find your <span className="word-highlight">favourite</span> player
         </h1>
-        <h4 id="player-hero-h4">Search through 200+ players!</h4>
+        <h3>Search through 200+ players!</h3>
       </div>
       <div id="player-form-container">
         <div id="player-form">
