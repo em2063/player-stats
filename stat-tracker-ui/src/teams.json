@@ -1,10 +1,10 @@
 {
   "Teams": {
-    "Celic": {
+    "Celtic": {
       "Color": "green"
     },
     "Rangers": {
-      "Color": "blue"
+      "Color": "#0000FF"
     },
     "Heart of Midlothian": {
       "Color": "maroon"
@@ -28,13 +28,13 @@
       "Color": "blue"
     },
     "Motherwell": {
-      "Color": "claret"
+      "Color": "#FF8C00"
     },
     "Ross County": {
-      "Color": "navy"
+      "Color": "#000080"
     },
     "Dundee": {
-      "Color": "navy"
+      "Color": "#000080"
     }
   }
 }

@@ -37,11 +37,8 @@ a:hover {
 }
 
 .hero {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  gap: 15px;
+  text-align: center;
+  margin: 50px 0;
 }
 
 .hero-inner {
@@ -146,7 +143,7 @@ a:hover {
 }
 
 .team-card {
-  height: 40%;
+  height: 20%;
   width: 20%;
   margin: 20px;
   padding: 2rem 1rem;
@@ -156,9 +153,18 @@ a:hover {
   flex-direction: column;
   box-shadow: 0px 7px 10px rgba(0, 0, 0, 0.5);
   transition: 0.5s ease-in-out;
-  flex-grow: 1;
   justify-content: center;
   align-items: center;
+}
+
+.team-card:hover {
+  transform: translateY(-5px);
+  cursor: pointer;
+}
+
+.team-card h2 {
+  font-size: 1.5em;
+  color: #f0ead6;
 }
 
 /* Table Styles */

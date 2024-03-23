@@ -27,8 +27,14 @@ const Teams = () => {
       </div>
       <div id="teams-container">
         {teams.map((teamName) => (
-          <div className="team-card" key={teamName}>
-            <h1>{teamName}</h1>
+          <div
+            className="team-card"
+            key={teamName}
+            style={{
+              backgroundColor: teamData.Teams[teamName].Color,
+            }}
+          >
+            <h2>{teamName}</h2>
           </div>
         ))}
       </div>
