@@ -1,0 +1,40 @@
+{
+  "Teams": {
+    "Celic": {
+      "Color": "green"
+    },
+    "Rangers": {
+      "Color": "blue"
+    },
+    "Heart of Midlothian": {
+      "Color": "maroon"
+    },
+    "Hibernian": {
+      "Color": "green"
+    },
+    "Aberdeen": {
+      "Color": "red"
+    },
+    "St Mirren": {
+      "Color": "black"
+    },
+    "Kilmarnock": {
+      "Color": "blue"
+    },
+    "Livingston": {
+      "Color": "yellow"
+    },
+    "St Johnstone": {
+      "Color": "blue"
+    },
+    "Motherwell": {
+      "Color": "claret"
+    },
+    "Ross County": {
+      "Color": "navy"
+    },
+    "Dundee": {
+      "Color": "navy"
+    }
+  }
+}
