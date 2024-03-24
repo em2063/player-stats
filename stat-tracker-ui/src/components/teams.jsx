@@ -26,17 +26,15 @@ const Teams = () => {
         <h4>Analyse how the 12 competing teams compare...</h4>
       </div>
       <div id="teams-container">
-        {teams.map((teamName) => (
-          <div
-            className="team-card"
-            key={teamName}
-            style={{
-              backgroundColor: teamData.Teams[teamName].Color,
-            }}
-          >
-            <h2>{teamName}</h2>
-          </div>
-        ))}
+        <table id="teams-table">
+          {teams.map((teamName) => (
+            <tbody id="teams-tbody">
+              <tr key={{ teamName }} id="teams-tr">
+                <td id="teams-td">{teamName}</td>
+              </tr>
+            </tbody>
+          ))}
+        </table>
       </div>
     </>
   );
