@@ -170,24 +170,24 @@ a:hover {
 /* Styling for teams table*/
 #teams-table {
   border-collapse: collapse;
-  width: 100%;
+  width: 60%;
 }
 
 #teams-tbody {
-  border: 1px solid #ddd;
-  padding: 8px;
-  text-align: left;
-  font-weight: bold; /* Make text bold */
-  font-size: 16px; /* Increase font size */
+  border: 2px solid #ddd;
+  padding: 20px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 16px;
 }
 
-#teams-tr tr:nth-child(even) {
-  background-color: #f2f2f2;
+#teams-tr {
+  background-color: #b2beb5;
 }
 
-#teams-th {
-  background-color: #4caf50;
-  color: white;
+#teams-td:hover {
+  cursor: pointer;
+  background-color: dimgray;
 }
 
 /* Table Styles */
