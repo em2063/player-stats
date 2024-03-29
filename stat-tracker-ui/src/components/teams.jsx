@@ -50,11 +50,13 @@ const Teams = () => {
   const showPlayers = (teamName) => {
     setShowTeams(false);
     setSelectedTeam(teamName);
+    window.scrollTo({ top: 0 });
   };
 
   const goback = () => {
     setShowTeams(true);
     setSelectedTeam(null);
+    window.scrollTo({ top: 0 });
   };
 
   return (
