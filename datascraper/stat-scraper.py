@@ -22,6 +22,8 @@ for team_url in team_urls:
 
     players.columns = players.columns.get_level_values(1)
     players = players[["Player", "Nation", "Pos", "Age", "MP", "Starts", "Min", "90s", "Gls", "Ast", "G+A", "G-PK", "PK", "PKatt", "CrdY", "CrdR"]]
+    players = players[players["Player"] != "Squad Total"]
+    players = players[players["Player"] != "Opponent Total"]
     players = players.fillna(0)
     players["Team"] = team_name
 
