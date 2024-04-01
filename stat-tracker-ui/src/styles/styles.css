@@ -75,6 +75,10 @@ a {
   color: #fff;
 }
 
+.hero-inner p {
+  color: #fff;
+}
+
 .footer {
   background-color: #f0f8ff;
   width: 100%;

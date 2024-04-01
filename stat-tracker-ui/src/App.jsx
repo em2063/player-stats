@@ -15,7 +15,7 @@ const App = () => {
         <Route path="/players" element={<Players />} />
         <Route path="/teams" element={<Teams />} />
       </Routes>
-      {/* <Footer></Footer> */}
+      <Footer></Footer>
     </>
   );
 };
