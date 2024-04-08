@@ -33,7 +33,7 @@ ul {
   top: 0;
   right: 0;
   height: 50vh;
-  width: 25%;
+  width: 50%;
   z-index: 999;
   background-color: #007fff;
   box-shadow: -10px 0 10px rgba(255, 255, 255, 0.1);
@@ -64,6 +64,19 @@ a {
 
 .nav-brand {
   font-size: xx-large;
+}
+
+.menu-button {
+  display: none;
+}
+
+@media (max-width: 400px) {
+  .hideOnMobile {
+    display: none;
+  }
+  .menu-button {
+    display: block;
+  }
 }
 
 #background {
