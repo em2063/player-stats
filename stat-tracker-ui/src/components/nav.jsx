@@ -3,8 +3,9 @@ import { Link } from "react-router-dom";
 import React, { useState } from "react";
 
 const Nav = () => {
-  const [sidebar, setSidebar] = useState(false);
+  const [sidebar, setSidebar] = useState(false); //init state for responsive nav
 
+  //used to open/close sidebar on mobile devices
   const moveSidebar = () => {
     setSidebar(!sidebar);
   };

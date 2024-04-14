@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 
+//Component for player rows (data)
 let PlayerRow = ({ player }) => {
   return (
     <tr>
@@ -21,10 +22,11 @@ let PlayerRow = ({ player }) => {
 };
 
 const Players = () => {
-  const [players, setPlayers] = useState(null);
+  const [players, setPlayers] = useState(null); //init state for updating table of players
   const [visiblePlayers, setVisiblePlayers] = useState(20);
   const [search, setSearch] = useState("");
 
+  //fetch player data
   useEffect(() => {
     fetch("http://localhost:3000/players")
       .then((res) => res.json())
@@ -34,6 +36,7 @@ const Players = () => {
       .catch((err) => console.log("error: ", err));
   }, []);
 
+  //error handling for no available players/server issues
   if (!players) {
     return (
       <div id="players-container">
@@ -51,12 +54,14 @@ const Players = () => {
     setSearch(event.target.value);
   };
 
+  //uses search bar to refine players down based from search
   const filteredPlayers = players.filter((player) =>
     player.Player.toLowerCase().includes(search.toLowerCase())
   );
 
   const renderedPlayers = filteredPlayers.slice(0, visiblePlayers);
 
+  //main table component
   return (
     <>
       <div className="team-player-hero">
